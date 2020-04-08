@@ -1,0 +1,40 @@
+h1 {
+    border: 5px solid rgb(252, 117, 7);
+    color: cornflowerblue;
+    text-align:center ;
+    border-style: double;
+    box-sizing: content-box;
+    position: sticky;
+  }
+  h3 {
+      color: rgb(0, 38, 255);
+      text-decoration: overline;
+      text-decoration: underline;
+  }
+
+table{
+    border: 2px solid black;
+    border-style: solid;
+    border-collapse: collapsex;
+}
+
+td{
+    border: 2px solid black;
+    border-style: solid;
+}
+th{
+    border: 2px solid black;
+    border-style: solid;
+}
+img{
+    border: 5px solid rgb(253, 94, 3);
+}
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p{
+    margin-right: 1000px;
+}
