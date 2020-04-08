@@ -6,6 +6,7 @@ h1 {
     box-sizing: content-box;
     position: sticky;
     background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif;
   }
   h3 {
       color: rgb(0, 38, 255);
@@ -19,10 +20,12 @@ h1 {
       background-color: beige;
   }
 
+
 table{
     border: 2px solid black;
     border-style: solid;
-    border-collapse: collapsex;
+    border-collapse: collapse;
+    background-color: antiquewhite;
 }
 
 td{
@@ -37,8 +40,12 @@ img{
     border: 5px solid rgb(253, 94, 3);
 }
 div {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+    background-image: "C:\Users\91970\Desktop\photos\IIITH.JFIF";
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
+p {
+    color: brown;
+}
+
