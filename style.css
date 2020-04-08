@@ -1,15 +1,22 @@
 h1 {
     border: 5px solid rgb(252, 117, 7);
-    color: cornflowerblue;
+    color: rgb(82, 9, 253);
     text-align:center ;
     border-style: double;
     box-sizing: content-box;
     position: sticky;
+    background-color: aqua;
   }
   h3 {
       color: rgb(0, 38, 255);
       text-decoration: overline;
       text-decoration: underline;
+  }
+  h2 {
+      background-color: burlywood;
+  }
+  ul{
+      background-color: beige;
   }
 
 table{
@@ -34,7 +41,4 @@ div {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-}
-p{
-    margin-right: 1000px;
 }
