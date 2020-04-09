@@ -12,11 +12,13 @@ h1 {
       color: rgb(0, 38, 255);
       text-decoration: overline;
       text-decoration: underline;
+      text-align: right;
   }
   h2 {
-      background-color: burlywood;
+      text-align: center;
+      text-decoration: solid;
   }
-  ul{
+  ul {
       background-color: beige;
   }
 
@@ -25,7 +27,6 @@ table{
     border: 2px solid black;
     border-style: solid;
     border-collapse: collapse;
-    background-color: antiquewhite;
 }
 
 td{
