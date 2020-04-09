@@ -1,11 +1,10 @@
 h1 {
-    border: 5px solid rgb(252, 117, 7);
+    border: 5px solid gray;
     color: rgb(82, 9, 253);
     text-align:center ;
     border-style: double;
     box-sizing: content-box;
     position: sticky;
-    background-color: aqua;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif;
   }
   h3 {
@@ -17,24 +16,29 @@ h1 {
   h2 {
       text-align: center;
       text-decoration: solid;
+      color: gray;
   }
   ul {
-      background-color: beige;
+      color: orange;
+  }
+  html {
+      background-color: black;
   }
 
 
 table{
-    border: 2px solid black;
+    border: 2px solid green;
     border-style: solid;
     border-collapse: collapse;
+    color: whitesmoke;
 }
 
 td{
-    border: 2px solid black;
+    border: 2px solid green;
     border-style: solid;
 }
 th{
-    border: 2px solid black;
+    border: 2px solid green;
     border-style: solid;
 }
 img{
